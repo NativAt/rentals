@@ -8,7 +8,6 @@ import AddApartment from '../containers/AddApartment/AddApartment';
 import { ROOT_URL } from '../config';
 
 
-
 class App extends Component {
   constructor(props) {
     super(props);
