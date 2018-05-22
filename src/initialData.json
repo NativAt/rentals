@@ -1,0 +1,51 @@
+{
+  "apartments": [
+    {
+      "id": 2,
+      "city": "Ashdod",
+      "address": "Weizmann",
+      "rooms": 3,
+      "price": 4000,
+      "features": [
+        "elevator"
+      ]
+    },
+    {
+      "id": 3,
+      "city": "Ashkelon",
+      "address": "Arlozorov",
+      "rooms": 2,
+      "price": 2500,
+      "features": [
+        "elevator",
+        "parking"
+      ]
+    },
+    {
+      "id": 4,
+      "city": "Beer Sheva",
+      "address": "Arlozorov",
+      "rooms": 5,
+      "price": 4000,
+      "features": [
+        "elevator",
+        "mamad",
+        "running water",
+        "furnished"
+      ]
+    },
+    {
+      "id": 5,
+      "city": "Netanya",
+      "address": "Gordon",
+      "rooms": 4,
+      "price": 3500,
+      "features": [
+        "elevator",
+        "mamad",
+        "running water",
+        "furnished"
+      ]
+    }
+  ]
+}

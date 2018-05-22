@@ -1,0 +1,17 @@
+.my-border {
+  border-bottom: 2px solid gray;
+}
+
+.apartment-value {
+  color: gray;
+}
+
+.apartment-feature {
+  color: #0b9ba5;
+}
+
+ul {
+  display:flex;  
+  list-style:none;
+  padding: 0;
+} 

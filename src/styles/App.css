@@ -1,0 +1,16 @@
+.app {
+  text-align: center;
+  margin-top: 100px;
+}
+
+html {
+  overflow-y: scroll;
+};
+
+.my-border {
+  border-bottom: 2px solid gray;
+}
+
+.hide {
+  display: none;
+}
