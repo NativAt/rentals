@@ -46,7 +46,7 @@ class AddApartment extends Component {
         value = event.target.value;
     }
 
-    this.setState({ 
+    this.setState({
       [event.target.name]: value 
     });
 	}

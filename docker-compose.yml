@@ -1,0 +1,10 @@
+mongo:
+    image: mongo:latest
+    hostname: mongo
+    ports:
+        - '27017:27017'
+    volumes:
+        - /opt/data/mongo_home:/data/db
+    restart: always
+    mem_limit: 1024m
+
